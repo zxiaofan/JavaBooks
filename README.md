@@ -1,3 +1,6 @@
+
+# 未找到所需资源，可扫描文末二维码或直接搜索zxiaofan关注公众号联系我    
+
 # JavaBooks
 网络收集的JAVA学习资料，仅作学习交流使用  
 
@@ -30,4 +33,12 @@ Java多线程编程核心技术_完整版
 2016双11电子书《不一样的双11，不一样的技术创新》_全版pdf  
 
 不一样的双11，不一样的技术创新PDF整合版_带目录  
+
+    
+---
+>祝君好运！<br>
+Life is all about choices！<br>
+将来的你一定会感激现在拼命的自己！<br>
+【[CSDN](https://blog.csdn.net/u010887744)】【[GitHub](https://github.com/zxiaofan)】【[OSCHINA](https://my.oschina.net/zxiaofan)】【[微信公众号](http://tc.zxiaofan.com/tc/zxiaofan_dyh.jpg)】    
+<img src="http://tc.zxiaofan.com/tc/zxiaofan_dyh.jpg"  height="150" width="150" alt="欢迎订阅zxiaofan的微信公众号，扫码或直接搜索zxiaofan">
 
