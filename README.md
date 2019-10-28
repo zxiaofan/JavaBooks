@@ -1,5 +1,7 @@
 
-# 未找到所需资源，可扫描文末二维码或直接搜索zxiaofan关注公众号联系我；    
+# 未找到所需资源，可扫描二维码或直接搜索zxiaofan关注公众号联系我；    
+【[微信公众号](http://tc.zxiaofan.com/tc/zxiaofan_dyh.jpg)】    
+<img src="http://tc.zxiaofan.com/tc/zxiaofan_dyh.jpg"  height="150" width="150" alt="欢迎订阅zxiaofan的微信公众号，扫码或直接搜索zxiaofan">
 ## 通过公众号后台获取资料，请回复详细的资料名，方便我提供。
 
 - 1、资源来源于网络，如有侵权，请联系我删除；
@@ -17,7 +19,7 @@
 Java核心技术 卷I 基础知识 （第9版）（中文）
 
 Java核心技术 卷I 基础知识 （第10版）（英文）  
-
+Java核心技术 卷2 高级特性 （第10版）（英文）  
 
 
 2、Java程序设计语言-第4版
